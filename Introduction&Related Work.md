@@ -67,6 +67,4 @@ The selected literature spans Psychology, Behavioral Economics, and Human-Comput
 | **Gamification** | **Facilitating Unmotivated Tasks...** | **Peer-reviewed** | 驗證虛擬寵物能提升使用者完成任務的動機。 |
 | **Psychology** | **The Ostrich Effect...** | **Classic Theory** | 提供人類逃避負面回饋的心理學解釋。 |
 
----
 
-希望這份整理能幫助你和組員在期末報告或專案提案中取得高分！如果有任何需要針對特定論文深入分析的地方，隨時告訴我。
